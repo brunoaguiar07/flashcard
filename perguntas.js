@@ -45,7 +45,9 @@ criaCartao(
     'Como se diz verde em ingles',
     'Verde em ingles é Green'
 
-)criaCartao(
+)
+    
+criaCartao(
     'Programação',
     'Qual o maior peixe do mundo?',
     'O maior peixe do planeta é o tubarão baleia'
