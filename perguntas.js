@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz tchau em Inglês?',
-    'Tchau em ingles é Bye`
+    'Tchau em ingles é Bye'
 )
 
 criaCartao(
@@ -30,7 +30,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da Itália?,
+    'Qual a capital da Itália?',
     'A capital da Itália é Roma'
 )
 
